@@ -12,13 +12,14 @@ export default function Navbar() {
                     <Link className="text-white/90 hover:text-white" href="https://www.youtube.com/@DaveGrayTeachesCode">
                         <FaYoutube />
                     </Link>
-                    <Link className="text-white/90 hover:text-white" href="https://courses.davegray.codes/">
+                    <Link className="text-white/90 hover:text-white" href="https://courses.davegray
+                    .codes/">
                         <FaLaptop />
                     </Link>
-                    <Link className="text-white/90 hover:text-white" href="https://github.com/gitdagray">
+                    <Link className="text-white/90 hover:text-white" href="https://github.com/Timileyin11">
                         <FaGithub />
                     </Link>
-                    <Link className="text-white/90 hover:text-white" href="https://twitter.com/yesdavidgray">
+                    <Link className="text-white/90 hover:text-white" href="https://twitter.com/Timizy383">
                         <FaTwitter />
                     </Link>
                 </div>
